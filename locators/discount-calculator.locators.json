@@ -1,0 +1,23 @@
+{
+    "PriceBeforeDiscount": {
+        "css": "input[name='pricebefore']"
+    },
+    "DiscountPercentage": {
+        "id": "#discountinput"
+    },
+    "PriceAfterDiscount": {
+        "css": "input[name='priceafter']"
+    },
+    "SavedAmount":{
+        "id": "#savedamountinput"
+    },
+    "DiscountTypePercentOff":{
+        "css": "label[for='format1']"
+    },
+    "DiscountTypeFixedAmountOff":{
+        "css": "label[for='format2']"
+    },
+    "CalculateButton": {
+        "css": "input[value='Calculate']"
+    }
+}
